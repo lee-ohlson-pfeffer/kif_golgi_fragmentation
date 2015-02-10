@@ -6,7 +6,7 @@ This function converts dv files to individual tifs given an input and output dir
 + dv_data_extract_metadata.m helper function for dv2tif.matlab
 
 ### *.cpproj
-These cellprofiler pipelines provide a structure analysis of noc or sirna effect
+These cellprofiler pipelines provide a structure for the analysis of the noc or sirna effect
 
 ### postcp_XXX_analysis.m 
 These functions analyze the .mat file produced by the cellprofiler pipeline
