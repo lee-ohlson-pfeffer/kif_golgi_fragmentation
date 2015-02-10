@@ -8,7 +8,7 @@ function [cel_stat,cel_legn]= postcp_sirna(fileoutmat)
 load(fileoutmat);
 
 %{
-The following paramerts were used for calculating area thresholds
+The following parameters were used for calculating area thresholds
 %}
 
 small_area_thresh = 15;
